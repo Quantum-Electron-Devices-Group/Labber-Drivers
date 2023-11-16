@@ -1,0 +1,9 @@
+{
+  "data_server": {
+    "hf2": false,
+    "shared_session": true
+  },
+  "instrument": {
+    "base_type": "DataServer"
+  }
+}
